@@ -1,0 +1,21 @@
+# Ignore PyTorch/YOLO model weights
+*.pt
+
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ignore any large data or logs
+*.log
+*.csv
+*.npy
+*.pkl
+
+# VSCode settings (optional)
+.vscode/
+
+# Python cache files
+__pycache__/
+*.py[cod]
