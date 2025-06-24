@@ -2,7 +2,7 @@ from deep_sort_realtime.deepsort_tracker import DeepSort
 
 class PlayerTracker:
     def __init__(self):
-        self.tracker = DeepSort(max_age=100, n_init=3, nms_max_overlap=0.6, max_cosine_distance=0.3)
+        self.tracker = DeepSort(max_age=100, n_init=2, nms_max_overlap=0.6, max_cosine_distance=0.15)
 
     def update(self, boxes, frame):
         if len(boxes) == 0:
