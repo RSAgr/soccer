@@ -4,3 +4,4 @@ deep_sort_realtime
 torch
 numpy
 filterpy
+gdown
