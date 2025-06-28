@@ -5,3 +5,8 @@ torch
 numpy
 filterpy
 gdown
+tensorboard
+numpy
+setuptools
+wheel
+cython

@@ -11,3 +11,8 @@ pip install -r requirements.txt
 
 To download model:
 bash download_model.sh
+
+To download the torchreid library:
+pip install git+https://github.com/KaiyangZhou/deep-person-reid.git 
+
+
