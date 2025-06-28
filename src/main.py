@@ -8,8 +8,7 @@ VIDEO_PATH = './15sec_input_720p.mp4'
 # VIDEO_PATH = './man.mp4'
 # MODEL_PATH = 'models/yolov11.pt'
 MODEL_PATH = 'models/best.pt'
-OUTPUT_PATH = './cosineStricterwithHighWaitBeforeID.mp4'
-
+OUTPUT_PATH = './output.mp4'
 
 # Ensure output folder exists
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
