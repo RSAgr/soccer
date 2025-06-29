@@ -7,7 +7,7 @@ Through this project we try to assign soccer players with ids which would remain
 Project was tried on the following input:
 [Google Drive - Input Video](https://drive.google.com/drive/folders/1Nx6H_n0UUI6L-6i8WknXd4Cv2c3VjZTP)
 
-# Output
+## Output
 
 Corresponding Output:
 [Google Drive - Output Video](https://drive.google.com/file/d/1hjQxy6GUyPdryagLr2WHQ2k09JbWS4Ak/view?usp=drive_link)
