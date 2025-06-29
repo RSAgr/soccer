@@ -5,12 +5,12 @@ Through this project we try to assign soccer players with ids which would remain
 ## Input
 
 Project was tried on the following input:
-<a href="https://drive.google.com/file/d/1TDcND31fvEDvcnZCaianTxJrmT8q7iIi/view?usp=drive_link" target="_blank">Google Drive - Input Video</a>
+[Google Drive - Input Video](https://drive.google.com/file/d/1TDcND31fvEDvcnZCaianTxJrmT8q7iIi/view?usp=drive_link)
 
 ## Output
 
 Corresponding Output:
-<a href="https://drive.google.com/file/d/1hjQxy6GUyPdryagLr2WHQ2k09JbWS4Ak/view?usp=drive_link" target="_blank">Google Drive - Input Video</a>
+[Google Drive - Output Video](https://drive.google.com/file/d/1hjQxy6GUyPdryagLr2WHQ2k09JbWS4Ak/view?usp=drive_link)
 
 ## Note from the Developer
 
